@@ -1,0 +1,6 @@
+# 财务软件，云记账软件
+
+介绍<br>云财务软件<br>目前主要包括以下模块，凭证 账簿 报表 结账 设置<br>          example.com<br>          example.com<br>          example.com<br>          example.com（明细账、总账、科目余额、时序账、科目汇总、核算项目明细账、核算项目余额）<br>          example.com（资产负债表、利润表、利润表季报、现金流量表、自己配置-部门利润、和项目利润）<br>          example.com：（日记账、内部转账、资金报表、核对总账、收支类别、账户设置）<br>          example.com：（销项发票 、进项发票、增值税测生成凭证 凭证模板设置）<br>          example.com：（固定资产管理、固定资产类别、折旧明细表、固定资产汇总固定资产对账、计提折旧、）<br>          example.com：（反结账、结转销售成本、计提职工薪酬、摊销待摊费用、计提税金、结转未交增值税、计提所得税、结转损益）<br>          example.com：（账套、科目、期初、币别、凭证字、辅助核算、权限设置、备份恢复）<br>1、前端<br>前端框架：VUE3<br>数据库支持：目前仅提供MySql数据库的支持，但不限于数据库<br>开发环境：Java、IDEA 、Gradle 、Git 、example.com<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/9WzPB" style="color: red;">https://mega-file.org/9WzPB</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
